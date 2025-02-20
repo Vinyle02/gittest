@@ -3,6 +3,7 @@ import seaborn as sns
 from matplotlib.colors import ListedColormap
 from sklearn import datasets, neighbors
 from sklearn.inspection import DecisionBoundaryDisplay
+import random
 
 if __name__ == "__main__":
     n_neighbors = 15
